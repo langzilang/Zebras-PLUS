@@ -15,4 +15,4 @@ gen
 !.vscode/extensions.json
 
 /node_modules
-
+/play/node_modules
