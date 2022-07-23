@@ -6,7 +6,7 @@
 
 ```javascript
 npm install -g pnpm   # 全局安装pnpm
-# 我这么安装了没屁用,所以我直接查了pnpm 的文档:https://www.pnpm.cn/installation
+# 我这么安装了没屁用,所以我直接查了pnpm 的文档:https://www.pnpm.cn/installation,使用了这个命令在powershell下安装成功，<iwr https://get.pnpm.io/install.ps1 -useb | iex>，记住不是cmd命令行。
 
 pnpm init # 初始化package.json 配置文件
 
